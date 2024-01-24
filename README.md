@@ -1,7 +1,6 @@
 # C2S2
-The source code will be released before December 31, 2023.
 
-Apologies for the delay.
+Apologies for the delay. The source code will be made available soon.
 
 Best regards,\
 Sven
